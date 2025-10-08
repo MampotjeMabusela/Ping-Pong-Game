@@ -65,7 +65,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Credits
 
-Created by [Your Name].  
+Created by [MAMPOTJE MABUSELA].  
 Special thanks to contributors and open-source resources.
 
 ---
